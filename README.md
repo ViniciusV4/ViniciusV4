@@ -1,6 +1,6 @@
   ## Olá! Eu sou o Marcos Vinicius 
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Atualmente trabalho com front-end
 - 🌱 Estudando JavaScript
 - 😄 Pronouns: ele/dele
 
