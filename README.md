@@ -1,7 +1,7 @@
   ## Hello! I am Marcos Vinicius 
 
 - 🔭 Front-end Devoloper
-- 🌱 studying javascript
+- 🌱 studying JavaScript
 - "Imagination is more important than knowledge" -Albert Einstein
 
 ##
