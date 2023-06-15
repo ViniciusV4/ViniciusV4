@@ -1,8 +1,8 @@
   ## Olá! Eu sou o Marcos Vinicius 
 
-- 🔭 Atualmente trabalho com front-end
+- 🔭 Desenvolvedor front-end
 - 🌱 Estudando JavaScript
-- 😄 Pronouns: ele/dele
+- "A imaginação é mais importante que o conhecimento" -Albert Einstein
 
 ##
 <div align="center">
