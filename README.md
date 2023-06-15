@@ -1,8 +1,8 @@
-  ## Olá! Eu sou o Marcos Vinicius 
+  ## Hello! I am Marcos Vinicius 
 
-- 🔭 Desenvolvedor front-end
-- 🌱 Estudando JavaScript
-- "A imaginação é mais importante que o conhecimento" -Albert Einstein
+- 🔭 Front-end Devoloper
+- 🌱 studying javascript
+- "Imagination is more important than knowledge" -Albert Einstein
 
 ##
 <div align="center">
