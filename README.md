@@ -20,10 +20,8 @@
 
 
 ### Main skills:
-[![My skills](https://skills.thijs.gg/icons?i=html,css,js,java)](https://skills.thijs.gg) 
+[![My skills](https://skills.thijs.gg/icons?i=html,css,js,java,bootstrap,react,figma,mysql)](https://skills.thijs.gg) 
 
-### Other Knowledge:
-[![My skills](https://skills.thijs.gg/icons?i=bootstrap,react,figma,mysql)](https://skills.thijs.gg) 
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
