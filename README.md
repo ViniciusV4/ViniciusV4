@@ -16,13 +16,13 @@
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/marcos-vinicius-383bb216a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
 
 
 ### Main skills:
 [![My skills](https://skills.thijs.gg/icons?i=html,css,js,java,bootstrap,react,figma,mysql)](https://skills.thijs.gg) 
 
-
+</div>
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ViniciusV4}/count.svg" /></p> 
